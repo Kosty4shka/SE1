@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> // Программа учебная. автор каращук константин. кэ-217 .2024
 
 using namespace std;
 
